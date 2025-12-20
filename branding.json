@@ -1,12 +1,12 @@
 {
   "zones": [
     {
-      "name": "FxTwitter",
+      "name": "Google Balls",
       "default": true,
-      "domains": ["fxtwitter.com", "twittpr.com"],
+      "domains": ["x.googleballs.com"],
       "provider": "twitter",
       "favicon": "https://abs.twimg.com/favicons/twitter.2.ico",
-      "redirect": "https://github.com/FxEmbed/FxEmbed",
+      "redirect": "https://github.com/weeniemount/gballs-FxEmbed",
       "color": "#6363ff",
       "activityIcons": {
         "default": "https://assets.fxembed.com/logos/fxtwitter32.png",
