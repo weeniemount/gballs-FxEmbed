@@ -804,3 +804,22 @@ interface GraphQLProcessBucket {
   allStatuses: GraphQLTwitterStatus[];
   cursors: GraphQLTimelineCursor[];
 }
+
+interface AboutAccountQueryResponse {
+  data?: {
+    user_result_by_screen_name?: {
+      result?: {
+        about_profile?: {
+          created_country_accurate?: boolean;
+          account_based_in?: string;
+          location_accurate?: boolean;
+          source?: string;
+          username_changes?: {
+            count?: string; // returned as string for some reason
+            last_changed_at_msec?: string;
+          };
+        };
+      };
+    };
+  };
+}
