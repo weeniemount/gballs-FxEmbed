@@ -9,13 +9,13 @@
       "redirect": "https://github.com/weeniemount/gballs-FxEmbed",
       "color": "#6363ff",
       "activityIcons": {
-        "default": "https://googleballs.com/favicon.ico",
-        "svg": "https://googleballs.com/favicon.ico",
-        "16": "https://googleballs.com/favicon.ico",
-        "24": "https://googleballs.com/favicon.ico",
-        "32": "https://googleballs.com/favicon.ico",
-        "48": "https://googleballs.com/favicon.ico",
-        "64": "https://googleballs.com/favicon.ico"
+        "default": "https://googleballs.com/balls.png",
+        "svg": "https://googleballs.com/balls.png",
+        "16": "https://googleballs.com/balls.png",
+        "24": "https://googleballs.com/balls.png",
+        "32": "https://googleballs.com/balls.png",
+        "48": "https://googleballs.com/balls.png",
+        "64": "https://googleballs.com/balls.png"
       }
     },
     {
