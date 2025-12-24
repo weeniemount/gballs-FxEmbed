@@ -5,17 +5,17 @@
       "default": true,
       "domains": ["x.googleballs.com"],
       "provider": "twitter",
-      "favicon": "https://abs.twimg.com/favicons/twitter.2.ico",
+      "favicon": "https://googleballs.com/favicon.ico",
       "redirect": "https://github.com/weeniemount/gballs-FxEmbed",
       "color": "#6363ff",
       "activityIcons": {
-        "default": "https://assets.fxembed.com/logos/fxtwitter32.png",
-        "svg": "https://assets.fxembed.com/logos/fxtwitter.svg",
-        "16": "https://assets.fxembed.com/logos/fxtwitter16.png",
-        "24": "https://assets.fxembed.com/logos/fxtwitter24.png",
-        "32": "https://assets.fxembed.com/logos/fxtwitter32.png",
-        "48": "https://assets.fxembed.com/logos/fxtwitter48.png",
-        "64": "https://assets.fxembed.com/logos/fxtwitter64.png"
+        "default": "https://googleballs.com/favicon.ico",
+        "svg": "https://googleballs.com/favicon.ico",
+        "16": "https://googleballs.com/favicon.ico",
+        "24": "https://googleballs.com/favicon.ico",
+        "32": "https://googleballs.com/favicon.ico",
+        "48": "https://googleballs.com/favicon.ico",
+        "64": "https://googleballs.com/favicon.ico"
       }
     },
     {
